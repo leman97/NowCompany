@@ -1,0 +1,229 @@
+.head {
+    width: 100%;
+    height: 30px;
+    background-color:darkblue;
+    display: flex;
+    align-items: center;
+}
+.number {
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 90px;
+    cursor: pointer;
+}
+.mail {
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    cursor: pointer;
+}
+.login {
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding-left: 10px;
+}
+.registerr {
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding-left: 10px;
+}
+.whitediv {
+    background-color: white;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    float: left;
+    align-items: center;
+}
+.logo {
+    width: 90px;
+    height: 50px;
+    padding-left: 70px;
+}
+.home {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding-left: 600px;
+}
+.course {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding-left: 10px;
+}
+.blog {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding-left: 10px;
+}
+.page {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding-left: 10px;
+}
+.contact {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding-left: 10px;
+}
+.apply {
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    border-radius: 8%;
+    position: relative;
+    left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.apply1 {
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.girl {
+    width: 100%;
+    height: auto;
+}
+.boost {
+    font-size: 40px;
+    color: darkblue;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 750px;
+    left: 750px;
+    line-height: 10px;
+    text-shadow: 5px 0 white;
+}
+.start {
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 1s;
+    position: relative;
+    bottom: 750px;
+    left: 750px;
+}
+.start:hover {
+    background-color: red;
+}
+.register {
+    width: 100px;
+    height: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkblue;
+    background-color: white;
+    color: darkblue;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 1s;
+    position: relative;
+    bottom: 750px;
+    left: 760px;
+}
+.register:hover {
+    background-color: red;
+    color: white;
+}
+.scholar {
+    width: 230px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 1s;
+    position: relative;
+    bottom: 150px;
+}
+.scholar:hover {
+    background-color: green;
+    height: 150px;
+}
+.scholar1 {
+    width: 230px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 1s;
+    position: relative;
+    bottom: 150px;
+    left: 60px;
+}
+.scholar1:hover {
+    background-color:brown;
+    height: 150px;
+}
+.scholar2 {
+    width: 230px;
+    height: 100px;
+    border-radius: 10px;
+    background-color:aqua;
+    color: white;
+    font-size: 20px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 1s;
+    position: relative;
+    bottom: 150px;
+    left: 120px;
+}
+.scholar2:hover {
+    background-color: black;
+    height: 150px;
+}
